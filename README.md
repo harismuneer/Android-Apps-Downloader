@@ -8,7 +8,8 @@ Moroever, to compare two Android Apps I wrote another tool named [AndroCompare](
 
 ## Approach
 The download URL of an app on Xiaomi App Store is like http://app.mi.com/download/23 
-The number at the end of the URL can be incremented to download as many apps as you want. So, theoretically you can download each and every app on the Xiaomi App Store.
+The number at the end of the URL can be incremented to download as many apps as you want. So, theoretically you can download each and every app on the Xiaomi App Store. Hence there's a variable named 'target' in the tool. If target = 1000 then the tool will scan first 1000 urls for the apps. You can change the target to any number you want.
+
 
 ## Features
 * download all apps from the famous Xiaomi App Store
@@ -20,6 +21,8 @@ The number at the end of the URL can be incremented to download as many apps as 
 ## How to Run Code
 The code is in ready to run condition. It can be run on both Windows/Ubuntu Linux. 
 Its written in Python 3. Moreover it uses [gplaycli](https://github.com/matlink/gplaycli), so install it using pip.
+
+You can use [DB Browser for SQLite](http://sqlitebrowser.org/) to view the database.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## Note
