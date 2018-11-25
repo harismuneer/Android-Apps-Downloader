@@ -1,4 +1,4 @@
-# Android Apps Scraper/Downloader
+# 📱 Android Apps Scraper/Downloader
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
 [![GitHub Forks](https://img.shields.io/github/forks/harismuneer/Android-Apps-Downloader.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/harismuneer/Android-Apps-Downloader/fork)
