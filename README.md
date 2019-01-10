@@ -1,4 +1,5 @@
 # 📱 Android Apps Scraper/Downloader
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2537131.svg)](https://doi.org/10.5281/zenodo.2537131)
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
 [![GitHub Forks](https://img.shields.io/github/forks/harismuneer/Android-Apps-Downloader.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/harismuneer/Android-Apps-Downloader/fork)
@@ -14,6 +15,9 @@ I did a research project on comparison of Official Play Store Apps and their 3rd
 I am open-sourcing this tool so that it can be utilized by the research community for research in Android Security. 
 
 Moroever, to compare two Android Apps I wrote another tool named [AndroCompare](https://github.com/harismuneer/AndroCompare). I have open-sourced it as well.
+
+For details regarding **citing/referencing** this tool for your research, check the 'Citation' section below.
+
 
 ## Approach
 The download URL of an app on Xiaomi App Store is like http://app.mi.com/download/23 
@@ -40,6 +44,14 @@ This script can be easily modified to meet your specific needs e.g currently it 
 This code is for research purposes only.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+
+## Citation
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2537131.svg)](https://doi.org/10.5281/zenodo.2537131)
+
+If you use this tool for your research, then kindly cite it. Click the above badge for more information regarding the complete citation for this tool and diffferent citation formats like IEEE, APA etc.
+
+---------------------------------------------------------------------------------------------------------------------------------------
 
 ## Author
 You can get in touch with me on my LinkedIn Profile: [![LinkedIn Link](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
