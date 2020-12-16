@@ -13,7 +13,7 @@ We did a research project on comparison of Official Play Store Apps and their 3r
 
 We are open-sourcing this tool so that it can be utilized by the research community for research in Android Security. 
 
-Moroever, to compare two Android Apps we wrote another tool named [AndroCompare](https://github.com/harismuneer/AndroCompare). we have open-sourced it as well.
+Moroever, to compare two Android Apps we wrote another tool named [AndroCompare](https://github.com/harismuneer/AndroCompare). We have open-sourced it as well.
 
 For details regarding **citing/referencing** this tool for your research, check the 'Citation' section below.
 
