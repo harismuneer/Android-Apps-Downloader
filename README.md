@@ -9,7 +9,6 @@
 
 
 
-
 We did a research project on comparison of Official Play Store Apps and their 3rd Party App Stores counterparts to analyze what modifications are done to the 3rd Party versions of an app. For this purpose, we wrote this script to download pairs of an app from Google Play Store and Xiaomi App Store (a famous 3rd Party Chinese App Store). It downloads an app from Xiaomi and Google Play store only when that app is available on both stores. This way it creates a dataset of pairs of an app.
 
 We are open-sourcing this tool so that it can be utilized by the research community for research in Android Security. 
@@ -53,7 +52,6 @@ If you use this tool for your research, then kindly cite it. Click the above bad
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-<br>
 <hr>
 
 ## Authors
